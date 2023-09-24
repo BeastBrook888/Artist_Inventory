@@ -1,8 +1,0 @@
-A4
-SCFV
-2
-4
-5
-13.0
-YYYY/MM/DD
-YYYY/MM/DD
